@@ -1,0 +1,21 @@
+!DOCTYPE html>
+<html>
+<head>
+        <title>Informação útil</title>
+        <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+    <h1>Este é um cabeçalho!</h1>
+    <p>Isso é apenas um parágrafo do texto</p>
+    <h2>E isso é um cabeçalho um pouco menor!</h2>
+             <ul>
+                   <li>Este é um elemento de uma lista com marcadores (o primeiro).</li>
+                   <li>E este é o segundo elemento.</li>
+             </ul>
+     <img src="https://media3.giphy.com/media/26BGGxgsEh42ABHFe/giphy.gif?cid=ecf05e47fewnmm2h6vijgpd1768vz8zxo441mpec89684gtw&rid=giphy.gif&ct=g" alt="Image 1">
+h1 {
+  animation: color-change 3s infinite;
+}
+<iframe src="https://www.meteoblue.com/pt/tempo/widget/daily/ip_rom%c3%aania_675514?geoloc=fixed&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&days=4&coloured=coloured&pictoicon=1&maxtemperature=1&mintemperature=1&windspeed=1&windgust=0&winddirection=1&uv=0&humidity=0&precipitation=1&precipitationprobability=1&spot=1&pressure=0&layout=light&user_key=68b27e45cbcfd29c&embed_key=635b8882848e2a03&sig=e934f8d25d5e68012d34dc7aa92c04c2b94c6f54839906b7d082a3140b9b0c2e" frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 216px;height: 348px;border: 0;overflow: hidden;"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/pt/tempo/semana/index" target="_blank" rel="noopener">meteoblue</a></div>
+</body>
+</html>
